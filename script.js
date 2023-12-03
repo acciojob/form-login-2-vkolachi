@@ -4,7 +4,7 @@ function sub() {
 	var phn=document.getElementById("phone").value;
 	var eml=document.getElementById("email").value;
 
-	var alertmsg="First Name:"+fnme+ "\nLast Name:"+lnme+"\nPhone Number:"+phn+"\nEmail ID:"+eml;
+	var alertmsg="First Name: "+fnme+ "\n Last Name: "+lnme+"\n Phone Number: "+phn+"\n Email ID: "+eml;
 	alert(alertmsg);
 	
 }
